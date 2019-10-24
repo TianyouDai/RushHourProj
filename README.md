@@ -13,3 +13,5 @@ The `feat-counting` branch of the repo is a tool that counts the number of uniqu
 3. If you are on the master branch, the code will generate a step by step solution to rush hour
 
 4. If you are on the `feat-counting` branch the code will tell you how many unique states that level has
+
+![](./12Unique.png)
